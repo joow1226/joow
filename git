@@ -1,0 +1,7 @@
+echo "# joow">>README.md
+git init
+git add README.md
+git commit -m "first commit"
+brach -m main
+git remote add origin https://github.com/joow1226/joow.git
+git push -u origin main
