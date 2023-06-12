@@ -1,0 +1,7 @@
+mkdir -p ~/. streamlit/
+echo "\[server]\n\
+headless = trye\n\
+port = $oort\n\
+enableCORS = false \n\
+\n\
+"> ~/.streamlit/config.tom1
